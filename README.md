@@ -1,23 +1,16 @@
-### Hi there 👋
-- 🔭 I’m currently working on a optical motion capture system
-- 🌱 I’m currently learning C++
-- 📫 How to reach me: Discord: Aredonia#3810
+# Ankayu 😶‍🌫️
 
-### Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aredonia&count_private=true&show_icons=true&theme=dracula)
-![Language Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Aredonia&layout=compact&theme=dracula)
+Hi, I'm Ankayu, a French Canadian developer.
 
-<!--
-**Aredonia/Aredonia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have a multitude of passions and I'm always ready to learn new things.
 
-Here are some ideas to get you started:
+I don't have much else to say about myself; my life isn't very exciting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently, I'm working on a virtual assistant to assist with Discord server management.
+- 🌱 I'm currently learning C#.
+- 💬 If you have any questions, feel free to ask!
+- 📫 How to reach me: Discord: **ankayu**
+
+## Statistics
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnkayuDev&show_icons=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkayuDev&layout=compact&theme=onedark)
